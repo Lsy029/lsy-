@@ -1,2 +1,2 @@
-# lsy-
-A Chinese college sophomore major in bioinformatics/interest in Devops and AI stuff/a  always on the road 
+# lsy-I want to creat a project help people learn bioinformatics better by using Q/A mode
+
